@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>jsz.dk</groupId>
-    <artifactId>sign-management</artifactId>
+    <artifactId>scaffold</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sign-management</name>
-    <description>Sign Mangement project for Spring Boot</description>
+    <name>scaffold</name>
+    <description>Scaffold project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
