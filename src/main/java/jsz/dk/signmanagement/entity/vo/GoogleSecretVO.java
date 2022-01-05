@@ -1,17 +1,17 @@
-package jsz.dk.signmanagement.entity;
+package jsz.dk.signmanagement.entity.vo;
 
 import lombok.Data;
 
 /**
  * @ProjectName: sign-management
  * @Package: jsz.dk.signmanagement.entity
- * @ClassName: GoogleDTO
+ * @ClassName: GoogleSecretVO
  * @Author: Strawberry
  * @Description:
- * @Date: 2021/07/15 23:53
+ * @Date: 2021/07/15 18:05
  */
 @Data
-public class GoogleDTO {
+public class GoogleSecretVO {
     private String secret;
-    private Long code;
+    private String secretQrCode;
 }

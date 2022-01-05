@@ -1,4 +1,4 @@
-package jsz.dk.signmanagement.entity;
+package jsz.dk.signmanagement.entity.dto;
 
 import lombok.Data;
 
